@@ -1,0 +1,11 @@
+# Python virtual environments and generated files
+.venv/
+**/__pycache__/
+*.py[cod]
+
+# Local configuration and databases
+backend/.env
+backend/instance/
+*.db
+*.sqlite
+*.sqlite3
